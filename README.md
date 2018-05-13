@@ -1,2 +1,4 @@
 # supermap
-JavaScript Map with superpowers!
+Map with superpowers! 💪
+
+## This project has moved to the [super](https://github.com/clarketm/super) repository: [super/SuperMap](https://github.com/clarketm/super/tree/master/packages/supermap#readme)
