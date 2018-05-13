@@ -1,7 +1,7 @@
 {
   "name": "supermap",
-  "version": "1.0.0",
-  "description": "JavaScript Map with superpowers!",
+  "version": "1.0.1",
+  "description": "Map with superpowers!",
   "main": "./lib/Map.js",
   "directories": {
     "lib": "./lib"
